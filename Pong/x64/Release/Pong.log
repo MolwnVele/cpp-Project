@@ -1,0 +1,12 @@
+﻿  Ball.cpp
+  ColorPicker.cpp
+  Image.cpp
+  mainPong.cpp
+  Paddle.cpp
+  PlayerScore.cpp
+  Pong.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 548 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong.vcxproj -> C:\Users\Alexander\source\repos\Pong\x64\Release\Pong.exe
